@@ -1,5 +1,5 @@
 # alarm_clock
-This is a code to be embedded in a microchip, simple alarm clock which can play different tunes with an LCD screen and buttons.
+This is a hobby project to be embedded in a microcontroller, a simple alarm clock which can play different tunes and configured with an LCD screen and buttons.
 
 ## Components
 The following components are the basic kinds, so I did not specify any model/brand:
@@ -21,7 +21,7 @@ The following components are the basic kinds, so I did not specify any model/bra
 ![image](/avm/sch.png)
 _Fig. 1 : Circuit connections on prototype board_
 
-## A Most Professional Demo
+## A Most Professional Demo (sound on 🔊)
 Here are some tunes of the alarm clock, they are irritating enough to wake you up in the morning 🌞. Two potentiometers you'll see below are for adjusting LCD brightness and backlight, you may include them as you like (not shown in the schematic).
 
 https://user-images.githubusercontent.com/97564250/232099760-1767747e-bf44-44eb-8795-3cf1ccb2b566.mp4
@@ -33,6 +33,6 @@ https://user-images.githubusercontent.com/97564250/232099846-51ae1c34-53d4-44f3-
 _Fig. 3 : Demonstration (Star Wars Theme)_
 
 > **Note**
-> I am aware some notes are a little of due to non-ideality of the MCU and components. They probably need some fine-tuning in `notes.h`, but I love them flawed like this.
+> I am aware some notes are a little of due to non-ideality of the MCU and components. They probably need some fine-tuning in `notes.h`, but I love them *flawed* like this.
 
-> If you like this [buy me a coffee :coffee:](https://www.buymeacoffee.com/volkbay).
+> If you like this project [buy me a coffee :coffee:](https://www.buymeacoffee.com/volkbay).
