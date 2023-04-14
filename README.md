@@ -17,10 +17,13 @@ The following components are the basic kinds, so I did not specify any model/bra
 - 4 x push buttons and 1 x on-off switch
 - A NPN transistor (2N2222 etc.)
 
-![image](https://user-images.githubusercontent.com/97564250/232081883-35c53e7e-2a17-4f4c-866e-cbe1fd73e57c.png)
+![image](/avm/sch.png)
 _Fig. 1 : Circuit connections on prototype board_
 
 ## A Most Professional Demo
+![video](/avm/alarm_clock_proto.mp4)
+_Fig. 2 : Demonstration_
+
 Two potentiometers are for LCD brightness and backlight, you may include them as you like (not in the schematic).
 
 > **Note**
