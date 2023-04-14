@@ -1,10 +1,11 @@
 # alarm_clock
-This is a hobby project to be embedded in a microcontroller, a simple alarm clock which can play different tunes and configured with an LCD screen and buttons.
+This is a hobby project to be embedded in a microcontroller, a simple alarm clock which can play different tunes and configured with an LCD screen and buttons. The code is in plain C language, depending on the [AVR Library](https://www.nongnu.org/avr-libc/).
 
 ## Components
 The following components are the basic kinds, so I did not specify any model/brand:
 
 - An ATMega8 Microcontroller (or anything compatible, ATTinys would do)
+- An MCU programmer (in my case USBAspv2)
 - 3v DC Power
 - A Buzzer
 - An LED
@@ -15,7 +16,7 @@ The following components are the basic kinds, so I did not specify any model/bra
   - 1 x less than 1k ohm (transistor to mcu)
 - 5 x 1 nF Capacitors (debouncing)
 - 4 x push buttons and 1 x on-off switch
-- A NPN transistor (2N2222 etc.)
+- An NPN transistor (2N2222 etc.)
 - 2 potentiometers [optional]
 
 ![image](/avm/sch.png)
