@@ -21,7 +21,7 @@ The following components are the basic kinds, so I did not specify any model/bra
 _Fig. 1 : Circuit connections on prototype board_
 
 ## A Most Professional Demo
-![video](/avm/alarm_clock_proto.mp4)
+/avm/alarm_clock_proto.mp4
 _Fig. 2 : Demonstration_
 
 Two potentiometers are for LCD brightness and backlight, you may include them as you like (not in the schematic).
