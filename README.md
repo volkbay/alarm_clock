@@ -21,10 +21,11 @@ The following components are the basic kinds, so I did not specify any model/bra
 _Fig. 1 : Circuit connections on prototype board_
 
 ## A Most Professional Demo
-https://github.com/volkbay/alarm_clock/blob/master/avm/demo_mario.mp4
+
+https://user-images.githubusercontent.com/97564250/232099760-1767747e-bf44-44eb-8795-3cf1ccb2b566.mp4
 _Fig. 2 : Demonstration (Super Mario Theme)_
 
-/avm/demo_star_wars.mp4
+https://user-images.githubusercontent.com/97564250/232099846-51ae1c34-53d4-44f3-82bb-2bbe998b39a7.mp4
 _Fig. 3 : Demonstration (Star Wars Theme)_
 
 Two potentiometers are for LCD brightness and backlight, you may include them as you like (not in the schematic).
